@@ -1,5 +1,6 @@
 ### How to run code
 
+```
 python3.12 -m venv venv
 source venv/bin/activate
 deactivate
@@ -9,9 +10,11 @@ pip install -r requirements.txt
 python initialSearch.py
 python filterSearch.py
 python combine.py
+```
 
 add paper which search manually in csv table
 
+```
 python ris.py
 
 python fig5.py
@@ -20,6 +23,7 @@ python fig7.py
 
 python table5.py
 python table6.py
+```
 
 ### .env
 
